@@ -1,3 +1,23 @@
+# Blog App - a blog example built with react, redux, and react-router
+
+## Install
+
+To install:
+`npm install`
+
+To Run:
+`npm start`
+
+Browser:
+`http://localhost:8080`
+
+
+
+==========
+
+# Old Readme
+
+
 # ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
